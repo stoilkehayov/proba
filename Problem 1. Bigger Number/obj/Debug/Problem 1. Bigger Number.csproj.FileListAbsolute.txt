@@ -1,0 +1,6 @@
+c:\users\stoil\documents\visual studio 2015\Projects\Homework Methods\Problem 1. Bigger Number\bin\Debug\Problem_1.Bigger_Number.exe.config
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Homework Methods\Problem 1. Bigger Number\bin\Debug\Problem_1.Bigger_Number.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Homework Methods\Problem 1. Bigger Number\bin\Debug\Problem_1.Bigger_Number.pdb
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Homework Methods\Problem 1. Bigger Number\obj\Debug\Problem 1. Bigger Number.csprojResolveAssemblyReference.cache
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Homework Methods\Problem 1. Bigger Number\obj\Debug\Problem_1.Bigger_Number.exe
+C:\Users\Stoil\Documents\Visual Studio 2015\Projects\Homework Methods\Problem 1. Bigger Number\obj\Debug\Problem_1.Bigger_Number.pdb
